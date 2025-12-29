@@ -2,8 +2,8 @@
 🔭 I’m currently working on: Building full-stack backend projects using PHP (Laravel), Python (FastAPI), and cloud-deployed microservices.<br>👯 I’m looking to collaborate on: Open-source backend tools, APIs, and automation scripts.<br>🌱 I’m currently learning: Docker, AWS cloud deployments, Python AI integrations, and security hardening.<br>🤝 I’m looking for help with: Advanced DevOps practices, Kubernetes, and scalable architecture design.<br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@matt_hickling)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matt-hickling-b64b0184/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/@matt_hickling)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matt-hickling-b64b0184/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/696415145152479273)
 
 # 💻 Tech Stack:
